@@ -1,11 +1,11 @@
 body {
-    background-color: #333232;
+    background-color: #efe7e5;
 }
 
 #container {
     background-color:#0E2431;
     border: 5px solid #f5e4c3;
-    height: 275px;
+    height: 300px;
     width: 750px;
     margin: 0 auto;
     text-align: center;
