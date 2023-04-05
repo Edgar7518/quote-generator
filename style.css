@@ -1,5 +1,5 @@
 body {
-    background-color: #efe7e5;
+    background-color: #f2f2f2;
 }
 
 #container {
@@ -8,6 +8,7 @@ body {
     height: 300px;
     width: 750px;
     margin: 0 auto;
+    margin-top: 150px;
     text-align: center;
 }
 
@@ -17,6 +18,7 @@ body {
     width: 250px;
     font-size: 22px;
     background-color: rgb(192, 191, 191);
+    cursor: pointer;
 }
 
 #output {
